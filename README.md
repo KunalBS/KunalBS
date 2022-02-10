@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KunalBS
-- 👀 I’m interested in MERN stack projects
-- 🌱 I’m currently learning socket.io
+- 👀 I’m interested in React js projects
+- 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kunalbiswas483@gmail.com
 
